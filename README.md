@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm [Dhiraj Bhattarai](https://github.com/IamDyroz)
+All of my public repositories and projects are listed below.
+- [Carousel](https://github.com/IamDyroz/carousel) build using React JS.
 
 <!--
 **IamDyroz/IamDyroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
