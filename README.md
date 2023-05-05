@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Dhiraj Bhattarai](github.com/IamDyroz)
+### Hi there 👋 I'm [Dhiraj Bhattarai](https://github.com/IamDyroz)
 
 <!--
 **IamDyroz/IamDyroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
