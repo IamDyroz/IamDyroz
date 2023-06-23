@@ -2,6 +2,8 @@
 All of my public repositories and projects are listed below.
 - [Carousel](https://github.com/IamDyroz/carousel) build using React JS.
 
+- [Data Science](https://github.com/IamDyroz/data-science) tutorials.
+
 <!--
 **IamDyroz/IamDyroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
